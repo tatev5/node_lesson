@@ -1,0 +1,13 @@
+{
+    "server": {
+        "logLevel": "dev",
+        "port": 3000
+    },
+    "views": {
+        "engine": "ejs",
+        "dir": "views"
+    },
+    "static": {
+        "dir": "public"
+    }
+}
